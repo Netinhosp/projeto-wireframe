@@ -1,0 +1,7 @@
+.container {
+    width: 100%;
+    max-width: 1246px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+/* Grid original = 1216px, com a adição do padding, aumenta 30px, para manter o tamanho original da grid.*/
